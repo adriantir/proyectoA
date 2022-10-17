@@ -1,1 +1,3 @@
 Este es mi primer fichero en GIT
+Esta es la segundo modificacion
+Es es mi tercera linea
